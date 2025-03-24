@@ -1,4 +1,3 @@
-import unittest
 from priority_queue import PriorityQueue
 
 class TestPriorityQueue(unittest.TestCase):
